@@ -1,0 +1,15 @@
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\bin\Debug\net6.0\TPModul5_1302210105.exe
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\bin\Debug\net6.0\TPModul5_1302210105.deps.json
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\bin\Debug\net6.0\TPModul5_1302210105.runtimeconfig.json
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\bin\Debug\net6.0\TPModul5_1302210105.dll
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\bin\Debug\net6.0\TPModul5_1302210105.pdb
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\TPModul5_1302210105.csproj.AssemblyReference.cache
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\TPModul5_1302210105.GeneratedMSBuildEditorConfig.editorconfig
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\TPModul5_1302210105.AssemblyInfoInputs.cache
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\TPModul5_1302210105.AssemblyInfo.cs
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\TPModul5_1302210105.csproj.CoreCompileInputs.cache
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\TPModul5_1302210105.dll
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\refint\TPModul5_1302210105.dll
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\TPModul5_1302210105.pdb
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\TPModul5_1302210105.genruntimeconfig.cache
+F:\data\Konstruksi Perangkat Lunak\TPModul5_1302210105\TPModul5_1302210105\obj\Debug\net6.0\ref\TPModul5_1302210105.dll
